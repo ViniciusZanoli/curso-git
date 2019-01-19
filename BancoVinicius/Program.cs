@@ -37,7 +37,7 @@ namespace BancoVinicius
             Console.WriteLine();
 
             Console.Write("Entre com um valor para deposito: ");
-            conta.depositar(double.Parse(Console.ReadLine()));
+            conta.Depositar(double.Parse(Console.ReadLine()));
 
             Console.WriteLine();
             Console.WriteLine(conta);
@@ -45,7 +45,7 @@ namespace BancoVinicius
 
 
             Console.Write("Entre com um valor para saque: ");
-            conta.sacar(double.Parse(Console.ReadLine()));
+            conta.Sacar(double.Parse(Console.ReadLine()));
 
             Console.WriteLine();
             Console.WriteLine(conta);

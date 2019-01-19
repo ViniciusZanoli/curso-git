@@ -22,16 +22,16 @@ namespace BancoVinicius
 
         public Conta(int numero, string titular, double depositoInicial) : this(numero, titular)
         {
-            depositar(depositoInicial);
+            Depositar(depositoInicial);
         }
 
-        public double depositar(double valor)
+        public double Depositar(double valor)
         {
             Saldo += valor;
             return Saldo;
         }
 
-        public double sacar(double valor)
+        public double Sacar(double valor)
         {
             Saldo -= valor + Taxa;
             return 0;
