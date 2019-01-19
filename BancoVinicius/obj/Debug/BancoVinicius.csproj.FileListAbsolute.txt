@@ -1,0 +1,7 @@
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\bin\Debug\BancoVinicius.exe.config
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\bin\Debug\BancoVinicius.exe
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\bin\Debug\BancoVinicius.pdb
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\obj\Debug\BancoVinicius.csprojAssemblyReference.cache
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\obj\Debug\BancoVinicius.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\obj\Debug\BancoVinicius.exe
+C:\Users\Vinicius Zanoli\OneDrive\MyKeepas\ACERVO DE PROGAMAÇÃO\Projetos de Estudo\BancoVinicius\BancoVinicius\obj\Debug\BancoVinicius.pdb
