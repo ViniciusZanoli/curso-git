@@ -48,7 +48,10 @@ namespace BancoVinicius
             conta.sacar(double.Parse(Console.ReadLine()));
 
             Console.WriteLine();
-            Console.WriteLine(conta);            
+            Console.WriteLine(conta);
+
+
+            Console.WriteLine("TESTANDO GIT");
 
             Console.ReadLine();
             
